@@ -31,7 +31,11 @@ If you already have a GitHub profile (obviously)
 
 Voila! Your site should be live at `https://{username}.github.io`
 
-My **Dev Landing Page** is in my favourite yellow theme - [Dinesh Pandiyan](https://flexdinesh.github.io)
+Here's my **Dev Landing Page** - [Dinesh Pandiyan - v1](https://v1.dineshpandiyan.com/)
+
+### Custom Domain
+
+If you want to make your new landing page available under a domain like `{username}.com` you can get started here - [Setting up a custom domain](https://help.github.com/articles/quick-start-setting-up-a-custom-domain/).
 
 ## License
 
